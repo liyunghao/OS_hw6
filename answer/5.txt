@@ -1,0 +1,4 @@
+total 0
+-rw-rw-r-- 0 nctuos nctuos 23 Nov 26 16:14 blue.txt
+-rw-rw-r-- 0 nctuos nctuos 22 Nov 26 16:14 red.txt
+-rw-rw-r-- 0 nctuos nctuos 12 Nov 26 15:58 yellow.txt
